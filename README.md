@@ -25,4 +25,4 @@
 
 ## 🖼️ Screenshot
 
-![Report](Verkaufsanalyse-in-Power-BI/VAPBI.png)
+![Report](VAPBI.png)
